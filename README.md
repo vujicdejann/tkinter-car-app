@@ -1,1 +1,1 @@
-# tkinter-car-app
+# tkinter-client-server-app
